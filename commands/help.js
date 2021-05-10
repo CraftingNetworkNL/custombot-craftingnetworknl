@@ -15,7 +15,7 @@ module.exports = {
 		{ name: '🔨__Moderate__', value: '``!warn``, ``!warnings``, ``!clearwarnings``, ``!mute``, ``!unmute``, ``!kick``, ``!ban``, ``!softban``, ``!purge``' },
 		{ name: '🫂__Community__', value: '``!suggest``, ``!report``, ``!meme``' },
 		{ name: '🎉__Giveaway__', value: '``!start``, ``!end``, ``!reroll``' },
-		{ name: '💰__Economy__', value: '``!bal``, ``!beg``, ``!buy``, ``!daily``, ``!inv``, ``!lb``, ``!shop``, ``!transfer``, ``!weekly``, ``!work``, ``!addmoney``, ``!setmoney``' },
+		{ name: '💰__Economy__', value: '``!bal``, ``!beg``, ``!daily``, ``!inv``, ``!lb``, ``!shop``, ``!transfer``, ``!weekly``, ``!work``, ``!addmoney``, ``!setmoney``' },
 		{ name: '🎵__Music__', value: '``!clear-queue``, ``!filter``, ``!loop``, ``!nowplaying``, ``!pause``, ``!play``, ``!queue``, ``!resume``, ``!search``, ``!shuffle``, ``!skip``, ``!stop``, ``!volume``' },
 	)
 	.setTimestamp()
