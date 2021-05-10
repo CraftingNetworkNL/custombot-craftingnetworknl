@@ -98,4 +98,4 @@ client.on("guildMemberAdd", member => {
 
 
 
-client.login(botConfig.token);
+client.login(process.env.token);
